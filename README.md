@@ -1,4 +1,4 @@
-# Sudoku-GUI-Solver
+# SudokuvGUI Solver using tkinter
 This is a sudoku solver using the backtracking algorithm. It includes a graphical GUI as well as a text based version with help of tkinter.
 Run GUI.py to play sudoku.
 
