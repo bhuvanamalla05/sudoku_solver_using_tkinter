@@ -1,4 +1,6 @@
-# Sudoku GUI Solver 
+                  ![sudokuicon](https://github.com/user-attachments/assets/8a4de7d0-0f41-4953-a7a5-fc3cea90a00c)
+
+# Sudoku GUI Solver (A Fun and Challenging Way to Exercise Your Brain!)
 This is a sudoku solver using the backtracking algorithm. It includes a graphical GUI as well as a text based version with help of tkinter.
 Run GUI.py to play sudoku.
 
@@ -6,3 +8,6 @@ Run GUI.py to play sudoku.
 Click a box and hit the number on your keybaord and fill the numbers where ever you want and finally to solve the board press 'Solve', sit back and watch the algorithm run.
 You can also clear the board and play any number of times by just hitting the clear button. 
 
+# Requirements 
+ .python 3.12.0 (updated version)
+ .
