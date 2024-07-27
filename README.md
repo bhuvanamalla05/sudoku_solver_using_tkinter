@@ -10,4 +10,5 @@ You can also clear the board and play any number of times by just hitting the cl
 
 # Requirements 
  .python 3.12.0 (updated version)
+ 
  .Tkinter 
