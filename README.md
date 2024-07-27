@@ -1,4 +1,4 @@
-                  ![sudokuicon](https://github.com/user-attachments/assets/8a4de7d0-0f41-4953-a7a5-fc3cea90a00c)
+                  
 
 # Sudoku GUI Solver (A Fun and Challenging Way to Exercise Your Brain!)
 This is a sudoku solver using the backtracking algorithm. It includes a graphical GUI as well as a text based version with help of tkinter.
